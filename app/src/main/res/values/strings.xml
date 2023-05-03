@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Hyderabad</string>
+    <string name="cafe_1">Coffee Cup</string>
+    <string name="cafe_2">The Roastery Coffee House</string>
+    <string name="cafe_3">Autumn Leaf Cafe</string>
+    <string name="cafe_4">The Gallery Cafe</string>
+    <string name="cafe_5">Driven Cafe</string>
+    <string name="cafe_6">Beyond Coffee</string>
+    <string name="cafe_7">Karachi Cafe</string>
+    <string name="cafe_8">Chit Chat Chai</string>
+    <string name="cafe_des_1">Beautiful Brewed Coffees and Breakfast Platters</string>
+    <string name="cafe_des_2">a Bungalow-turned Cafe to Chill at</string>
+    <string name="cafe_des_3">Sip a Cup of Coffee amidst a Quite Courtyard</string>
+    <string name="cafe_des_4">Treat your Eyes as you Treat your Taste Buds</string>
+    <string name="cafe_des_5">Dine with all that Road-Tripping stuff around</string>
+    <string name="cafe_des_6">Another treat for an Art Lover</string>
+    <string name="cafe_des_7">a Vintage Decor that will surely give you a Wave of Nostalgia</string>
+    <string name="cafe_des_8">Cafes aren\'t just about Coffee are they\?</string>
+
+    <string name="restaurant_1">Almond House</string>
+    <string name="restaurant_2">Tatva</string>
+    <string name="restaurant_3">Smoky Pitara</string>
+    <string name="restaurant_4">Rajdhani Thali Restaurant</string>
+    <string name="restaurant_5">AB’s Absolute Barbecues</string>
+    <string name="restaurant_6">Ten J</string>
+    <string name="restaurant_7">Over The Moon Brew Company</string>
+    <string name="restaurant_8">Café Bahar</string>
+    <string name="restaurant_des_1">Multiple</string>
+    <string name="restaurant_des_2">Jubilee Hills Road</string>
+    <string name="restaurant_des_3">Road 36, Jubilee Hills</string>
+    <string name="restaurant_des_4">Road 3, Banjara Hills</string>
+    <string name="restaurant_des_5">Jubilee Hills, Gachibowli</string>
+    <string name="restaurant_des_6">7th Heaven Building, Jubilee Hills</string>
+    <string name="restaurant_des_7">Quiet Lands, Gachibowli</string>
+    <string name="restaurant_des_8">Avanti Nagar, Hyderguda</string>
+
+    <string name="tourist_1">Charminar</string>
+    <string name="tourist_2">Ramoji Film City</string>
+    <string name="tourist_3">Hussain Sagar Lake</string>
+    <string name="tourist_4">Golconda Fort</string>
+    <string name="tourist_5">Chowmahalla Palace</string>
+    <string name="tourist_6">Salar Jung Museum</string>
+    <string name="tourist_7">Birla Science Museum</string>
+    <string name="tourist_8">Qutub Shahi Tombs</string>
+
+    <string name="cafe_recommendation_detail_1">Located a little far from the city. this place is known for its beautifully brewed coffees and breakfast platters.
+        Its decor, neither too extravagant nor shabbily done, is an absolute win.
+        Live music and a lovely ambience together complement the food here which is delectable.
+        They even have a collection of board and card games for you to kill time with as the service can be a tad slow. Visit during karaoke nights for an experience you will remember.
+        Reservations are recommended.\n\n
+        Must-try dishes: Chicken Penne Pasta, Fish n Chips, Chocolate Brownie Cold Coffee, Brownie \n<b>Location: </b>Above Canara Bank, Sainikpuri, Secunderabad\n<b>Cost for two:</b> INR 800
+        \n<b>Timings:</b> 9:00 AM to 11:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_2">Bungalow-turned-Cafe, this is a cosy little establishment tucked away from the busier roads of the city. The ambience is very home-like and spells out tranquillity through its plain white walls. And if you like to dine in the lap of nature, a well-maintained garden awaits you in the backyard. The menu offers a plethora of options apart from the coffee which is roasted and brewed in-house. Coffees from the \'Artisan Blends\', \'Pour-Over\' and \'Cold Brew\' sections especially are a must try. Drop in by 10 AM for a scrumptious breakfast.<br/><br/><br/>
+        Must-try dishes: Mac \'n\' Cheese, Onion Rings<br/>Location: House 418, Road 14, Banjara Hills<br/>Cost for two: INR 700
+        <br/>Timings: 9:30 AM to 11:00 PM
+    </string>
+    <string name="cafe_recommendation_detail_3">A cafe that doesn\'t feel like a cafe - true to its name, you will get the feeling of being seated in an area filled with autumn greenery. A quiet courtyard of a bungalow, if you will. With distressed, mismatched furniture and artefacts adorning every nook and cranny of this place, it almost gives out Bohemian vibes. Their brunch menu is diverse. You may opt for indoor seating as well if the weather gods are too harsh. Impressively, they have a neat little solution for that - mist spraying table fans.<br/><br/><br/>
+        Must-try dishes: English breakfast, Mocktails, Pasta<br/>Location: Road 41, Jubilee Hills<br/>Cost for two: INR 1000
+        <br/>Timings: Mon-Thu 12:00 PM to 10:30 PM, Fri 8 PM to 10:30 PM, Sat-Sun 9 AM to 10:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_4">Sit back, relax and have a good time at this quaint little art gallery-cum-cafe if you are looking for a casual yet soothing vibe. The decor is minimalistic, and the art pieces speak for themselves against the serene white walls. They even provide stationery to diners to create their masterpieces. And here\'s some respite for vegetarians in the meat-loving city of Hyderabad: this place serves pure vegetarian food.<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_5">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_6">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_7">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="cafe_recommendation_detail_8">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_1">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_2">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_3">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_4">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_5">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_6">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_7">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="restaurants_recommendation_detail_8">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_1">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_2">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_3">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_4">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_5">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_6">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_7">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+    <string name="tourist_place_recommendation_detail_8">All you bikers and vintage car enthusiasts listen up for this one - cause you will love dining here with all the road-tripping stuff around - bike accessories, pictures and actual vehicles. They even allow you to rent those super cool bikes! The interiors are so rustic yet extraordinarily plush and classy that you get the feel of dining in some foreign country. What\'s even better is that it remains open until late at night. Midnight cravings sorted\!<br/><br/><br/>
+        Must-try dishes: Pasta, Sandwiches, Chocolate Shake, Waffles<br/>Location: Road 10, Banjara Hills<br/>Cost for two: INR 800
+        <br/>Timings: 11:30 AM to 10:30 PM
+    </string>
+
+    <string name="category_heading">Categories</string>
+    <string name="cafes">Cafes</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="tourist_places">Tourist Places</string>
+</resources>
